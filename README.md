@@ -1,7 +1,9 @@
-# DevOps Capstone Template
+# devops-capstone-project
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
+
+A customer accounts microservice for an e-commerce website. It exposes a REST API built with Python Flask to create, read, update, delete and list customer accounts. The project covers Agile planning, a CI pipeline in GitHub Actions, security headers, Docker and Kubernetes deployment, and a Tekton CD pipeline on OpenShift.
 
 This repository contains the starter code for the project in [**IBM-CD0285EN-SkillsNetwork DevOps Capstone Project**](https://www.coursera.org/learn/devops-capstone-project?specialization=devops-and-software-engineering) which is part of the [**IBM DevOps and Software Engineering Professional Certificate**](https://www.coursera.org/professional-certificates/devops-and-software-engineering)
 
